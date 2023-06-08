@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/home/static/css/main.bcefe6cd.css",
-    "main.js": "/home/static/js/main.a5454ace.js",
+    "main.js": "/home/static/js/main.9220d299.js",
     "static/js/787.d9dea709.chunk.js": "/home/static/js/787.d9dea709.chunk.js",
+    "static/media/medioambiente3.gif": "/home/static/media/medioambiente3.06b2c6a333245185d422.gif",
     "static/media/fondoweb1.png": "/home/static/media/fondoweb1.f4ee35bef87720d37f3f.png",
     "static/media/aplicacion8.png": "/home/static/media/aplicacion8.b636a3eef5c9a251e556.png",
+    "static/media/cartaambiente3.jpg": "/home/static/media/cartaambiente3.1ce5aa392211a34f393a.jpg",
     "static/media/portadacapacitacion.png": "/home/static/media/portadacapacitacion.97c8b973074f8f842c5e.png",
     "static/media/portadaingenieria.png": "/home/static/media/portadaingenieria.69ef8bb07e4d17da0b5f.png",
     "static/media/aplicacion1.png": "/home/static/media/aplicacion1.cbbdc18707ad1d766b2a.png",
@@ -17,12 +19,14 @@
     "static/media/aplicacionsatelitesforestal.png": "/home/static/media/aplicacionsatelitesforestal.57dbea3168f40e7623ee.png",
     "static/media/fondorecursos1.png": "/home/static/media/fondorecursos1.f5246a5bfd90508ab0f6.png",
     "static/media/portadanegocios.png": "/home/static/media/portadanegocios.c62d74d934cf275422ce.png",
+    "static/media/medioambiente1.jpg": "/home/static/media/medioambiente1.988e022919a658925c7b.jpg",
     "static/media/portadagobierno.png": "/home/static/media/portadagobierno.937ff35da175b8d311fb.png",
     "static/media/hidrico.png": "/home/static/media/hidrico.b713fb2da6faeb19f951.png",
     "static/media/radar.png": "/home/static/media/radar.8172f1157e8ef5c5886a.png",
     "static/media/fondotele1.jpg": "/home/static/media/fondotele1.f6add917442ff3a855fc.jpg",
     "static/media/logisticacard1.png": "/home/static/media/logisticacard1.f91608911d265df5ef90.png",
     "static/media/imagenopticamanilla.png": "/home/static/media/imagenopticamanilla.da0fa25cc6c4353417ee.png",
+    "static/media/cartaambiente2.png": "/home/static/media/cartaambiente2.4d98d74ce65a7071167c.png",
     "static/media/aplicacionsateliteinfra1.png": "/home/static/media/aplicacionsateliteinfra1.b5034d1fdd32b12c2f77.png",
     "static/media/aplicacionsatelitesagro.png": "/home/static/media/aplicacionsatelitesagro.54c42e0a3ddf9be4171f.png",
     "static/media/cartaimagenesdesatelite.png": "/home/static/media/cartaimagenesdesatelite.347e59f71254a517086f.png",
@@ -60,7 +64,6 @@
     "static/media/aplicacionsatelitescatastro.jpg": "/home/static/media/aplicacionsatelitescatastro.933851f43665f0c01451.jpg",
     "static/media/telecom.png": "/home/static/media/telecom.91832a0d04fac23bb1a9.png",
     "static/media/fondoinge1.jpg": "/home/static/media/fondoinge1.88b1ac52958642c74f9d.jpg",
-    "static/media/cartaambiente1.jpg": "/home/static/media/cartaambiente1.ff7a5b9df95f92c93da6.jpg",
     "static/media/aplicacionsatelitesdesastres.jpg": "/home/static/media/aplicacionsatelitesdesastres.943f8238ba139a88ba5d.jpg",
     "static/media/ingenieria_carta1.png": "/home/static/media/ingenieria_carta1.20a21f63d2cf9dd68ac4.png",
     "static/media/portadabienvenida1.png": "/home/static/media/portadabienvenida1.2f4ba501c3b5c6e21310.png",
@@ -84,7 +87,6 @@
     "static/media/esri.png": "/home/static/media/esri.307f8f74ce8b5c7418b4.png",
     "static/media/card1.jpg": "/home/static/media/card1.0ff0d60f693efcc548d0.jpg",
     "static/media/carto.png": "/home/static/media/carto.45206c61104662ff6861.png",
-    "static/media/cartaambiente3.jpg": "/home/static/media/cartaambiente3.2976c649313921397999.jpg",
     "static/media/portadabienvenida3.png": "/home/static/media/portadabienvenida3.2f758ea4129367ee69e7.png",
     "static/media/representaciondatosmapas.png": "/home/static/media/representaciondatosmapas.3fc44a1a5fef2211d779.png",
     "static/media/capacitacionGISmini.png": "/home/static/media/capacitacionGISmini.45983d0667d60f01daf8.png",
@@ -100,7 +102,6 @@
     "static/media/notaweb2.jpg": "/home/static/media/notaweb2.d83e44949c4073f5f9aa.jpg",
     "static/media/notaingenieria4.jpg": "/home/static/media/notaingenieria4.6668706b5c163e78c832.jpg",
     "static/media/notalogistica4.jpg": "/home/static/media/notalogistica4.6668706b5c163e78c832.jpg",
-    "static/media/cartaambiente2.jpg": "/home/static/media/cartaambiente2.dfd972a9f84849fc3c41.jpg",
     "static/media/notalogistica2.jpg": "/home/static/media/notalogistica2.6def857f748a7fabdda0.jpg",
     "static/media/notarecursos2.jpg": "/home/static/media/notarecursos2.6def857f748a7fabdda0.jpg",
     "static/media/notagobierno1.jpg": "/home/static/media/notagobierno1.d0e503f239882405cf1d.jpg",
@@ -116,11 +117,11 @@
     "static/media/geocartos.svg": "/home/static/media/geocartos.59b2da5eed7836d83a97c6d1ace0acd0.svg",
     "index.html": "/home/index.html",
     "main.bcefe6cd.css.map": "/home/static/css/main.bcefe6cd.css.map",
-    "main.a5454ace.js.map": "/home/static/js/main.a5454ace.js.map",
+    "main.9220d299.js.map": "/home/static/js/main.9220d299.js.map",
     "787.d9dea709.chunk.js.map": "/home/static/js/787.d9dea709.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcefe6cd.css",
-    "static/js/main.a5454ace.js"
+    "static/js/main.9220d299.js"
   ]
 }
